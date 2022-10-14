@@ -1,0 +1,15 @@
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\bin\Debug\net6.0\Sem7Task46.exe
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\bin\Debug\net6.0\Sem7Task46.deps.json
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\bin\Debug\net6.0\Sem7Task46.runtimeconfig.json
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\bin\Debug\net6.0\Sem7Task46.dll
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\bin\Debug\net6.0\Sem7Task46.pdb
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\Sem7Task46.csproj.AssemblyReference.cache
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\Sem7Task46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\Sem7Task46.AssemblyInfoInputs.cache
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\Sem7Task46.AssemblyInfo.cs
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\Sem7Task46.csproj.CoreCompileInputs.cache
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\Sem7Task46.dll
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\refint\Sem7Task46.dll
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\Sem7Task46.pdb
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\Sem7Task46.genruntimeconfig.cache
+C:\Users\Natasha\OneDrive\Desktop\GR3122Ferst\GR3122Ferst\Sem7Task46\obj\Debug\net6.0\ref\Sem7Task46.dll
